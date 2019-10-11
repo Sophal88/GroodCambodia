@@ -1,0 +1,26 @@
+.Header {
+    background-color: #f5c644;
+}
+h1 {
+    color: #303030;
+    font-size: 25pt;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: -300px;
+}
+input::placeholder {
+    color: black;
+    font-size: 1m;
+  }
+.ui.button{
+    background-color: #303030;
+    color: #ffffff;
+    font-size: 18px;
+    margin-left: 54%;
+    width: 46%;
+    height: 40px;
+}
+.ui.form{
+    width: 30%;
+    margin-left: 450px;
+    margin-top: 100px;
+}
